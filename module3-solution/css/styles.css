@@ -1,0 +1,22 @@
+#myNavbar ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#myNavbar ul li:nth-child(1),#myNavbar ul li:nth-child(2){
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    border-color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+.mydata h2{
+    font-size: 1.4em;
+}
+.mydata p{
+    background-color:#00f0ff;
+    font-size: 1.1em;
+}
