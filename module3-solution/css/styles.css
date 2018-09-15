@@ -2,7 +2,10 @@
     text-align: center;
     font-size: 1.2em;
 }
-
+#myNavbar a:hover{
+    background-color:#761c19;
+    color: yellow;
+}
 #myNavbar ul li:nth-child(1),#myNavbar ul li:nth-child(2){
     border-style: solid;
     border-width: 0px;
